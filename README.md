@@ -2,7 +2,7 @@
 <!-- 🌈 HEADER (파스텔 블루~퍼플) -->
 <!-- ======================================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,27&height=220&section=header&text=Soyeon%20Kim&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,22&height=220&section=header&text=Soyeon%20Kim&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
 <!-- ======================================= -->
@@ -21,6 +21,13 @@
 </p>
 
 ---
+
+<!-- ======================================= -->
+<!-- 🌈 FOOTER -->
+<!-- ======================================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,22&height=150&section=footer" />
+</p>
 
 <!-- ======================================= -->
 <!-- 💻 Tech Stack -->
@@ -110,10 +117,3 @@
 </p>
 
 <br>
-
-<!-- ======================================= -->
-<!-- 🌈 FOOTER -->
-<!-- ======================================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,27&height=160&section=footer" />
-</p>
