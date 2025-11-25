@@ -1,1 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:E3FDFD,100:A6E3E9&height=250&text=Soyeon%20Kim&fontColor=003638&fontSize=45&animation=fadeIn&desc=Fullstack%20Developer&descAlignY=65" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FFCAF2,ADD8FF&height=300&text=Waving!&fontColor=ffffff&fontSize=60&fontAlign=70&fontAlignY=35&animation=twinkling" />
+</div>
