@@ -13,8 +13,10 @@
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-  I'm a developer who loves building clean, intuitive, and meaningful experiences.<br>
-  I work across frontend, backend, mobile, and cloud — and I enjoy learning new tech every day.
+  안녕하세요, **불편을 새로운 기능으로 개선하는 개발자** 김소연 입니다.
+  꾸준히 다져온 프론트엔드 역량을 바탕으로 이제는 전체 서비스를 바라보는 시야를 키우며, 풀스택 개발자로 성장하기 위해 매일 꾸준히 학습하고 있습니다. <br>
+**Hello, I'm Soyeon Kim — a developer who turns inconvenience into functionality.**<br>
+Building on the frontend skills I've steadily developed, I am now expanding my perspective to understand entire services end-to-end and continuously learning every day to grow as a full-stack developer.
 </p>
 
 ---
@@ -56,7 +58,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-### 🤖 AI / 
+### 🤖 AI
 <p>
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
   <img src="https://img.shields.io/badge/EfficientNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -64,19 +66,19 @@
   <img src="https://img.shields.io/badge/ResNet-4B8BBE?style=flat-square&logo=ai&logoColor=white"/>
 </p>
 
-### DevOps
+### 💾 DevOps
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
-### Design
+### 🌈 Design
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
-### ✏️ Study
+### ✏️ Study..
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
