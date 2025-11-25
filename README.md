@@ -25,7 +25,7 @@
 <!-- ======================================= -->
 <!-- 💻 Tech Stack -->
 <!-- ======================================= -->
-<h2 align="left">💻 Tech Stack</h2>
+<h2 align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="48" /> Tech Stack</h2>
 
 ### 🎨 Frontend
 <p>
