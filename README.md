@@ -8,7 +8,7 @@
 <!-- ======================================= -->
 <!-- 👋 INTRO -->
 <!-- ======================================= -->
-<h3 align="center">Hi there 👋</h3>
+<h2 align="center">Hi there 👋</h2>
 
 <p align="center">
   안녕하세요, <b>불편을 새로운 기능으로 개선하는 개발자</b> 김소연 입니다.<br>
@@ -27,7 +27,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,22&height=150&section=footer" />
 </p>
 
----
+<hr style="height: 4px; background-color: #9ed8ff; border: none;">
 <!-- ======================================= -->
 <!-- 💻 Tech Stack -->
 <!-- ======================================= -->
