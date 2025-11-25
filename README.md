@@ -26,6 +26,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,19,20,22&height=150&section=footer" />
 </p>
+
 ---
 <!-- ======================================= -->
 <!-- 💻 Tech Stack -->
