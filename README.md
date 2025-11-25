@@ -25,7 +25,7 @@
 <!-- ======================================= -->
 <!-- 💻 Tech Stack -->
 <!-- ======================================= -->
-<h2 align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/heroicons/monitor.svg" width="40"/> Tech Stack</h2>
+<h2 align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /> Tech Stack</h2>
 
 ### 🎨 Frontend
 <p>
