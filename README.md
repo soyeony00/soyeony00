@@ -82,10 +82,10 @@
 <h2 align="left">💜 Contact</h2>
 
 <p>
-  <a href="https://velog.io/@newspring56">
+  <a href="https://velog.io/@ddpet">
     <img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
-  <a href="mailto:newspring56@gmail.com">
+  <a href="mailto:homeddpet@gmail.com">
     <img src="https://img.shields.io/badge/newspring56@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
