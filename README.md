@@ -85,12 +85,11 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 </p>
----
 
 <!-- ======================================= -->
 <!-- 🧩 PROJECTS -->
 <!-- ======================================= -->
-<h2>🧩 Projects</h2>
+<h2>📁 Projects</h2>
 
 - 🐾 **Dtopia** — Pet Healthcare IoT App (React Native + Bluetooth + Python/AI)
 - 🎬 **MOA Stage** — Performance Ticketing Platform with Payment, Reviews, Elasticsearch
