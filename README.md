@@ -5,8 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,25,27&height=220&section=header&text=Soyeon%20Kim&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=40" />
 </p>
 
-<br>
-
 <!-- ======================================= -->
 <!-- 👋 INTRO -->
 <!-- ======================================= -->
