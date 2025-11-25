@@ -25,7 +25,7 @@
 <!-- ======================================= -->
 <!-- 💻 Tech Stack -->
 <!-- ======================================= -->
-<h2 align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /> Tech Stack</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ### 🎨 Frontend
 <p>
