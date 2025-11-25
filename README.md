@@ -13,8 +13,8 @@
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">
-  안녕하세요, **불편을 새로운 기능으로 개선하는 개발자** 김소연 입니다.
-  꾸준히 다져온 프론트엔드 역량을 바탕으로 이제는 전체 서비스를 바라보는 시야를 키우며, 풀스택 개발자로 성장하기 위해 매일 꾸준히 학습하고 있습니다. <br>
+  안녕하세요, <b>불편을 새로운 기능으로 개선하는 개발자</b>> 김소연 입니다.
+  꾸준히 다져온 프론트엔드 역량을 바탕으로 이제는 전체 서비스를 바라보는 시야를 키우며,<br> 풀스택 개발자로 성장하기 위해 매일 꾸준히 학습하고 있습니다.
 **Hello, I'm Soyeon Kim — a developer who turns inconvenience into functionality.**<br>
 Building on the frontend skills I've steadily developed, I am now expanding my perspective to understand entire services end-to-end and continuously learning every day to grow as a full-stack developer.
 </p>
