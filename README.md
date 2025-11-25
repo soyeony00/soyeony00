@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Gim%20soyeon&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Frontend%20Developer&descAlignY=65&descAlign=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:E3FDFD,100:A6E3E9&height=250&text=Soyeon%20Kim&fontColor=003638&fontSize=45&animation=fadeIn&desc=Fullstack%20Developer&descAlignY=65" />
