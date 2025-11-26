@@ -91,10 +91,16 @@
 <!-- ======================================= -->
 <h2>📁 Projects</h2>
 
-- 🐾 **Dtopia** — Pet Healthcare IoT App (React Native + Bluetooth + Python/AI)
-- 🎬 **MOA Stage** — Performance Ticketing Platform with Payment, Reviews, Elasticsearch
-- 🏭 **Smart Factory Safety AI** — Real-time YOLO/AI detection for industrial safety
-- 👁️ **Cataract & Skin Disease Detection** — YOLOv8 · ResNet · EfficientNet
+🐾 Dtopia — Pet Healthcare IoT App (React Native + Bluetooth + Python/AI)
+
+🎬 MOA Stage — Performance Ticketing Platform with Payment, Reviews, Elasticsearch
+
+🏭 Smart Factory Safety AI — Real-time YOLO/AI detection for industrial safety
+
+👁️ Cataract & Skin Disease Detection — YOLOv8 · ResNet · EfficientNet
+
+🧩 Python Node-Based Workflow Engine — Drag-and-connect node editor with file processing,
+깃허브 링크 첨부 예정
 
 > If you want, I can add detailed project cards or screenshots here later!
 
