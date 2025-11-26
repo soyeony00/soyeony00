@@ -100,7 +100,8 @@
 👁️ Cataract & Skin Disease Detection — YOLOv8 · ResNet · EfficientNet
 
 🧩 Python Node-Based Workflow Engine — Drag-and-connect node editor with file processing,
-깃허브 링크 첨부 예정
+<br>
+### 깃허브 링크 첨부 예정
 
 > If you want, I can add detailed project cards or screenshots here later!
 
