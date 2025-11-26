@@ -122,5 +122,3 @@
 </p>
 
 <br>
-
-[![soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?soyeony00=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
