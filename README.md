@@ -14,6 +14,10 @@
   안녕하세요, <b>불편을 새로운 기능으로 개선하는 개발자</b> 김소연 입니다.<br>
   꾸준히 다져온 프론트엔드 역량을 바탕으로 이제는 전체 서비스를 바라보는 시야를 키우며,<br>
   풀스택 개발자로 성장하기 위해 매일 꾸준히 학습하고 있습니다.<br><br>
+
+  팀원들에게 있어 저는, **비타민** 같은 사람이라는 말을 많이 듣곤 했습니다.<br>
+  그만큼 매사 긍정적인 마음가짐으로 끈기있게 목표에 임하여 좋은 결과를 이끌어내는 힘을 가지고 있습니다.
+  
   <b>Hello, I'm Soyeon Kim — a developer who turns inconvenience into functionality.</b><br>
   Building on the frontend skills I've steadily developed, I am now expanding my perspective<br>
   to understand entire services end-to-end and continuously learning every day<br>
