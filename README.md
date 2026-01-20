@@ -103,11 +103,23 @@
 
 🧩 Python Node-Based Workflow Engine — Drag-and-connect node editor with file processing,
 <br>
-### 깃허브 링크 첨부 예정
 
-> If you want, I can add detailed project cards or screenshots here later!
+<!-- ======================================= -->
+<!-- 🔎 EXPLORE PROJECTS -->
+<!-- ======================================= -->
+<p align="center">
+  아래는 지금까지 제가 직접 기획하고 구현해온 프로젝트들입니다.<br>
+  단순히 기능을 구현하는 데서 그치지 않고,<br>
+  <b>왜 이 기능이 필요한지, 사용자는 어떤 흐름에서 불편을 느낄지</b>를 고민하며<br>
+  설계부터 구현, 개선까지 하나하나 직접 완성해왔습니다.<br><br>
+  각 프로젝트에는 당시 제가 마주했던 문제와<br>
+  그것을 해결하기 위해 시도했던 선택과 고민들이 담겨 있습니다.<br>
+  작은 기능 하나라도 의미 있게 만들기 위해 끝까지 책임지고 완성했습니다.
+</p>
 
----
+<p align="center">
+  👉 <b>하단 pinned 내부 프로젝트를 클릭하시면 더 자세한 구현 과정과 결과를 확인하실 수 있습니다.</b>
+</p>
 
 <!-- ======================================= -->
 <!-- 💜 CONTACT -->
